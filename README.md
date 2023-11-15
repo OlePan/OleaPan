@@ -1,2 +1,2 @@
-# OleaPan
-CV
+Hello, my name is Oleksandr Panchyk. I have been working in the IT industry for over ten years. As a result-oriented and highly motivated Engineer, I primarily focus on Databases running on Linux, as well as Database-as-a-Service in Amazon Web Services and Microsoft Azure. My expertise includes scripting, provisioning, automation, configuration, administration, and production support of environments in both Amazon Cloud and Azure. I possess extensive experience in large-scale upgrades and migrations, as well as proven skills in troubleshooting and root-cause analysis of infrastructure and database issues. Additionally, I have successfully completed several projects related to migrating from on-premise data centers to the Cloud. I am adept at working efficiently as a member of cross-functional, multicultural teams distributed globally.
+
